@@ -1,0 +1,13 @@
+{
+  "name": "@hmcts/eslint-config",
+  "version": "1.0.0",
+  "description": "Shared eslint config for hmcts projects",
+  "main": "index.js",
+  "repository": "https://github.com/hmcts/eslint-config",
+  "author": "Michael Allen <michael@allen.digital>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 4.4",
+    "eslint-config-recommended": ">= 1.5.0"
+  }
+}
