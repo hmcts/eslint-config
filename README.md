@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/hmcts/eslint-config.svg?branch=master)](https://travis-ci.org/hmcts/eslint-config)
+[![npm version](https://badge.fury.io/js/%40hmcts%2Feslint-config.svg)](https://badge.fury.io/js/%40hmcts%2Feslint-config)
+
 # ESLint Config
 
 Custom rules for eslint.
