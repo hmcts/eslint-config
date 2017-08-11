@@ -6,6 +6,9 @@
   "repository": "https://github.com/hmcts/eslint-config",
   "author": "Michael Allen <michael@allen.digital>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "eslint": ">= 4.4"
   }
