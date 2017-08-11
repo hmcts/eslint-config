@@ -2,9 +2,6 @@ sudo: required
 
 language: node_js
 
-script:
-  - exit 0
-
 deploy:
   provider: npm
   email: michael@allen.digital
