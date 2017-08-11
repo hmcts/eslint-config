@@ -5,5 +5,6 @@ module.exports = {
   rules: Object.assign({}, defaults.rules, {
     'arrow-body-style': 'off',
     'newline-per-chained-call': 'off'
+    'max-nested-callbacks': ['error', 5],
   })
 }
