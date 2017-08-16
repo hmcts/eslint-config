@@ -3,6 +3,8 @@
 
 # ESLint Config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hmcts/eslint-config.svg)](https://greenkeeper.io/)
+
 Custom rules for eslint.
 
 ## Usage
