@@ -1,15 +1,25 @@
 {
   "name": "@hmcts/eslint-config",
-  "version": "1.0.4",
   "description": "Shared eslint config for hmcts projects",
+  "homepage": "https://github.com/hmcts/eslint-config#readme",
+  "version": "1.0.5-0",
   "main": "index.js",
-  "repository": "https://github.com/hmcts/eslint-config",
-  "author": "Michael Allen <michael@allen.digital>",
-  "license": "MIT",
-  "publishConfig": {
-    "access": "public"
+  "author": {
+    "email": "michael@allen.digital",
+    "name": "Michael Allen"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmcts/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hmcts/eslint-config/issues"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 4.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
