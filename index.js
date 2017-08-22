@@ -110,7 +110,7 @@ module.exports = {
     'accessor-pairs': 'error',
     'array-callback-return': 'error',
     'block-scoped-var': 'error',
-    complexity: ['error', 3],
+    complexity: ['error', 10],
     'consistent-return': 'error',
     'default-case': 'error',
     'dot-location': ['error', 'property'],
