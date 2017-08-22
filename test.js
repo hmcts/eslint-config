@@ -7,6 +7,7 @@ module.exports = {
     'newline-per-chained-call': 'off',
     'max-nested-callbacks': ['error', 5],
     'no-undefined': 'off',
-    'no-magic-numbers': 'off'
+    'no-magic-numbers': 'off',
+    'no-unused-expressions': 'off'
   })
 }
