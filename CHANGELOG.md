@@ -1,3 +1,17 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2017-10-02)
+
+* Ignore numbers used to count ([8997399](https://github.com/hmcts/eslint-config/commit/8997399))
+
+
+
+<a name="1.1.0"></a>
+# 1.1.0 (2017-10-02)
+
+* Ignore numbers used to count ([8997399](https://github.com/hmcts/eslint-config/commit/8997399))
+
+
+
 <a name="1.0.5"></a>
 ## 1.0.5 (2017-08-22)
 
