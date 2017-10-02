@@ -135,7 +135,11 @@ module.exports = {
     'no-labels': 'error',
     'no-lone-blocks': 'error',
     'no-loop-func': 'error',
-    'no-magic-numbers': ['error', { ignoreArrayIndexes: true, enforceConst: true }],
+    'no-magic-numbers': ['error', {
+      ignoreArrayIndexes: true,
+      enforceConst: true,
+      ignore: [-1, 0, 1]
+    }],
     'no-multi-spaces': 'error',
     'no-multi-str': 'error',
     'no-new': 'error',
