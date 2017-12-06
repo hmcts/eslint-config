@@ -57,7 +57,7 @@ module.exports = {
       { blankLine: 'any', prev: 'cjs-import', next: 'cjs-import' }
     ],
     'quote-props': ['error', 'as-needed'],
-    quotes: [ 'error', 'single' ],
+    quotes: [ 'error', 'single', { avoidEscape: true } ],
     semi: [ 'error', 'always' ],
     'semi-spacing': 'error',
     'semi-style': 'error',
