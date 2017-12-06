@@ -1,3 +1,10 @@
+<a name="1.3.0"></a>
+# 1.3.0 (2017-12-06)
+
+* Allow double quotes if needed to avoid escaping a single quote ([a393d1d](https://github.com/hmcts/eslint-config/commit/a393d1d))
+
+
+
 <a name="1.2.0"></a>
 # 1.2.0 (2017-10-02)
 
