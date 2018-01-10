@@ -1,3 +1,10 @@
+<a name="1.4.0"></a>
+# 1.4.0 (2018-01-10)
+
+* Allow more lines in tests ([0c8939e](https://github.com/hmcts/eslint-config/commit/0c8939e))
+
+
+
 <a name="1.3.0"></a>
 # 1.3.0 (2017-12-06)
 
