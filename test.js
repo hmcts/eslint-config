@@ -8,6 +8,7 @@ module.exports = {
     'max-nested-callbacks': ['error', 5],
     'no-undefined': 'off',
     'no-magic-numbers': 'off',
-    'no-unused-expressions': 'off'
+    'no-unused-expressions': 'off',
+    'max-lines': ['error', 600],
   })
 }
