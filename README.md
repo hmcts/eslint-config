@@ -14,7 +14,7 @@ Add to your `package.json`:
 Create a `.eslintrc.json` which extends this config:
 
     {
-      "extends": "@hmcts"
+      "extends": "@hmcts",
       "env": {
         "es6": true,
         "node": true
